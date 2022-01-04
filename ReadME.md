@@ -2,4 +2,4 @@
 ### Topic: Kaggle Competition Dummy Submission
 
 **Score:**
-![This is an image](/Img01.png)
+![This is an image](/Img01.jpg)
